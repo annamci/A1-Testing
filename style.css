@@ -1,14 +1,22 @@
-h1 {
+head {
     font-family:Georgia, 'Times New Roman', Times, serif;
-    font-size: 20px
+    font-size: 30px;
 }
+
+h1 {
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+
 p {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 16px;
+    color:darkgray;
 }
 
 body {
     background-color: lightgrey;
     font-family:Arial, Helvetica, sans-serif;
     font-size: 16px;
+    color: darkgray;
 }
